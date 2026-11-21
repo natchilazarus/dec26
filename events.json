@@ -597,6 +597,91 @@
       "cost": "Entry price not verified",
       "note": "Official directory shows market dates continuing through 20 December 2026; confirm the specific 20 December session and hours with organiser.",
       "verified": "2026-11-21"
+    },
+    {
+      "id": "jazz-gosford-carolyn-packer-20270103",
+      "title": "Carolyn Packer's Stompin' Rhythm Aces",
+      "category": "Jazz & live music",
+      "region": "Central Coast",
+      "place": "Parkview Room, Central Coast Leagues Club, Gosford",
+      "start": "2027-01-03",
+      "end": "2027-01-03",
+      "description": "Traditional New Orleans jazz, boogie-woogie, swing, blues and soul with Carolyn Packer's band, afternoon performance.",
+      "link": "https://www.jazzleague.net/events/carolyn-packers-stompin-rhythm-aces-1",
+      "source": "Central Coast Jazz League (organiser)",
+      "age": "Check venue under-18 entry policy",
+      "status": "Confirmed listing",
+      "cost": "A$10 at door (club's event-series price)",
+      "note": "Sunday 2–5pm. A daytime jazz performance likely to appeal to both ages; call Central Coast Leagues Club to confirm minors allowed in Parkview Room and whether entry fee applies to children.",
+      "verified": "2026-11-21"
+    },
+    {
+      "id": "jazz-orpheum-pocket-trio-20261217",
+      "title": "Orpheum Jazz Lounge: The Pocket Trio with Kate Wadey",
+      "category": "Jazz & live music",
+      "region": "Sydney",
+      "place": "Hayden Orpheum Picture Palace, Cremorne, Sydney",
+      "start": "2026-12-17",
+      "end": "2026-12-17",
+      "description": "Swinging classic jazz arrangements and jazz standards featuring The Pocket Trio with vocalist Kate Wadey in the Orpheum lounge.",
+      "link": "https://whatson.cityofsydney.nsw.gov.au/events/the-pocket-trio-with-kate-wadey",
+      "source": "City of Sydney What's On; Jazz Near You event listing",
+      "age": "Both ages (confirmed all-ages event)",
+      "status": "Confirmed listing",
+      "cost": "A$35 per person",
+      "note": "Thursday 8–10pm; doors 7:30pm. Official listing says all ages; lounge cinema is stairs-only. Event page includes ticket booking.",
+      "verified": "2026-11-21"
+    },
+    {
+      "id": "jazz-chatswood-dan-barnett-20261217",
+      "title": "Dan Barnett Big Band: Latin Fiesta",
+      "category": "Jazz & live music",
+      "region": "Sydney",
+      "place": "The Lounge, The Concourse, Chatswood",
+      "start": "2026-12-17",
+      "end": "2026-12-17",
+      "description": "Energetic 14-piece Latin-jazz big band featuring Dan Barnett and vocalist/bassist Nicki Parrott, with samba, mambo and bossa nova.",
+      "link": "https://www.theconcourse.com.au/event/jazz-at-the-lounge-2026-dan-barnett-big-band-goes-latin/",
+      "source": "The Concourse (official event page)",
+      "age": "Check under-18 entry policy",
+      "status": "Confirmed listing",
+      "cost": "Ticketed; current price not verified",
+      "note": "Thursday 7:30pm. Public ticket link on official event page; confirm if 9- and 13-year-olds can attend before booking.",
+      "verified": "2026-11-21"
+    },
+    {
+      "id": "jazz-marrickville-salsa-meets-jazz-20261212",
+      "title": "Salsa Meets Jazz: A Night of Latin Soul & Jazz Fire",
+      "category": "Jazz & live music",
+      "region": "Sydney",
+      "place": "Camelot Lounge, 19 Marrickville Road, Marrickville",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "description": "Live Latin-jazz and salsa performance blending Cuban rhythms and New Orleans jazz, with danceable grooves.",
+      "link": "https://www.camelotlounge.com/whats-on",
+      "source": "Camelot Lounge (official event calendar); Sticky Tickets (ticketing page)",
+      "age": "Both ages (under 18 accompanied by adult)",
+      "status": "Confirmed listing",
+      "cost": "A$45 + booking fee advance (check checkout price)",
+      "note": "Saturday doors 7pm; show 8pm. Venue calendar confirms Dec 12. All ages welcome accompanied by adult. Ticketing result has inconsistent cached dates, so verify December 12 selected before paying.",
+      "verified": "2026-11-21"
+    },
+    {
+      "id": "jazz-opera-tara-clerkin-20261214",
+      "title": "Tara Clerkin Trio — Alt-Jazz & Contemporary Music",
+      "category": "Jazz & live music",
+      "region": "Sydney",
+      "place": "Utzon Room, Sydney Opera House",
+      "start": "2026-12-14",
+      "end": "2026-12-14",
+      "description": "Atmospheric contemporary alt-jazz trio blending jazz, folk, trip-hop and avant-pop.",
+      "link": "https://www.sydneyoperahouse.com/contemporary-music/tara-clerkin-trio",
+      "source": "Sydney Opera House (official event and tickets)",
+      "age": "Both ages (ages 15 and under accompanied)",
+      "status": "Confirmed listing",
+      "cost": "A$64.90 unreserved standing; A$8.95 transaction fee",
+      "note": "Monday 7pm, doors 6:30pm. Standing-room performance; consider whether a standing late show suits the 9-year-old.",
+      "verified": "2026-11-21"
     }
   ],
   "change_log": [
@@ -629,6 +714,11 @@
       "date": "2026-11-20",
       "type": "Unresolved",
       "details": "Central Coast Gosford and The Entrance 2026 NYE celebrations remain unconfirmed by the official Love Central Coast page, which still describes welcoming 2026. Do not treat those as confirmed."
+    },
+    {
+      "date": "2026-11-21",
+      "type": "Jazz additions",
+      "details": "Added 5 dated jazz event listings (Gosford 3 Jan; Sydney 12, 14 and 17 Dec) from official venue and organiser sources. Minor admission unknown for Gosford and Chatswood; verify before booking. Camelot booking page cache shows inconsistent dates so confirm 12 Dec before checkout."
     }
   ]
 }
