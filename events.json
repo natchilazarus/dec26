@@ -1,5 +1,5 @@
 {
-  "last_verified": "2026-11-20",
+  "last_verified": "2026-11-21",
   "holiday_start": "2026-12-11",
   "holiday_end": "2027-01-05",
   "events": [
@@ -459,8 +459,8 @@
       "age": "Both ages",
       "status": "Confirmed listing",
       "cost": "Free",
-      "note": "",
-      "verified": "2026-11-20"
+      "note": "Official programme lists 4:30pm opening, Santa arrival 8:15pm, fireworks at Cockle Bay at 9pm. Some stage acts target younger children, but crafts, games, choir and fireworks suit a wider family audience.",
+      "verified": "2026-11-21"
     },
     {
       "id": "terrigalcarols",
@@ -546,9 +546,70 @@
       "cost": "Free",
       "note": "",
       "verified": "2026-11-20"
+    },
+    {
+      "id": "cocklebayspectacular",
+      "title": "Cockle Bay Christmas Spectacular",
+      "category": "Christmas & carols",
+      "region": "Sydney",
+      "place": "Cockle Bay, Darling Harbour",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "description": "Free waterfront Christmas spectacular with flyboarders, wakeboarders, a water-ski human pyramid and Santa's surprise arrival. Finish with 9pm fireworks.",
+      "link": "https://www.darlingharbour.com/whats-on/campaigns/christmas",
+      "source": "Darling Harbour official Christmas programme",
+      "age": "Both ages",
+      "status": "Confirmed listing",
+      "cost": "Free",
+      "note": "Exact show start time not verified; fireworks scheduled for 9pm, weather permitting.",
+      "verified": "2026-11-21"
+    },
+    {
+      "id": "floatingtree",
+      "title": "Darling Harbour Floating Christmas Tree",
+      "category": "Lights & rides",
+      "region": "Sydney",
+      "place": "Cockle Bay, Darling Harbour",
+      "start": "2026-12-11",
+      "end": "2026-12-26",
+      "description": "See the 15-metre floating Christmas tree sparkling on Cockle Bay, especially after dark; a free festive photo stop.",
+      "link": "https://www.darlingharbour.com/whats-on/events/floating-christmas-tree",
+      "source": "Darling Harbour",
+      "age": "Both ages",
+      "status": "Confirmed listing",
+      "cost": "Free",
+      "note": "Official installation runs 20 November–26 December 2026; dates shown are the overlap with the family holiday period.",
+      "verified": "2026-11-21"
+    },
+    {
+      "id": "coastfarmersmarket",
+      "title": "Central Coast Farmers Market",
+      "category": "Markets & fairs",
+      "region": "Central Coast",
+      "place": "Gosford Showground, Showground Road, Gosford",
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "description": "Local produce and food market at Gosford Showground; suitable for a relaxed family morning.",
+      "link": "https://www.lovecentralcoast.com/events-listing/markets",
+      "source": "Love Central Coast official events directory",
+      "age": "Both ages",
+      "status": "Check specific session",
+      "cost": "Entry price not verified",
+      "note": "Official directory shows market dates continuing through 20 December 2026; confirm the specific 20 December session and hours with organiser.",
+      "verified": "2026-11-21"
     }
   ],
   "change_log": [
+    {
+      "date": "2026-11-21",
+      "type": "Added",
+      "details": "Cockle Bay Christmas Spectacular (12 Dec), Darling Harbour Floating Christmas Tree (through 26 Dec), and Central Coast Farmers Market (20 Dec; exact session still needs organiser confirmation). Official sources: https://www.darlingharbour.com/whats-on/campaigns/christmas ; https://www.darlingharbour.com/whats-on/events/floating-christmas-tree ; https://www.lovecentralcoast.com/events-listing/markets"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "Verified",
+      "details": "Darling Harbour Christmas Festival stage programme and 9pm fireworks confirmed at https://www.darlingharbour.com/whats-on/events/christmas-festival. Gosford and The Entrance 2026 NYE dates remain unconfirmed; Love Central Coast Christmas page still refers to 2025."
+    },
     {
       "date": "2026-11-20",
       "type": "Added",
