@@ -1,5 +1,5 @@
 {
-  "last_verified": "2026-11-21",
+  "last_verified": "2026-11-22",
   "holiday_start": "2026-12-11",
   "holiday_end": "2027-01-05",
   "events": [
@@ -51,8 +51,8 @@
       "age": "Both ages",
       "status": "Confirmed listing",
       "cost": "Child A$49.90–69.90; adult A$59.90–79.90",
-      "note": "Officially one show at 7:30pm on 14 December; 1h50 incl interval. Strobe and haze effects.",
-      "verified": "2026-11-20"
+      "note": "Officially one show at 7:30pm on 14 December; 1h50 incl interval. Strobe and haze effects. Official Art House confirms suitable for all ages; child tickets for ages 2–15 are A$49.90–69.90; smoke/fog and strobe effects.",
+      "verified": "2026-11-22"
     },
     {
       "id": "gosfordcarols",
@@ -289,8 +289,8 @@
       "age": "Both ages",
       "status": "Confirmed listing",
       "cost": "Free entry",
-      "note": "Full season 10–20 Dec 2026, from 4pm to 10:30pm.",
-      "verified": "2026-11-19"
+      "note": "Full season 10–20 Dec 2026, from 4pm to 10:30pm. Official 2026 market runs daily 4–10:30pm through 20 Dec, free entry, 100+ exhibitors.",
+      "verified": "2026-11-22"
     },
     {
       "id": "cathedral",
@@ -401,15 +401,15 @@
       "region": "Sydney",
       "place": "The Rocks",
       "start": "2026-12-11",
-      "end": "2026-12-20",
+      "end": "2026-12-27",
       "description": "Festive weekend market stalls, local makers and seasonal treats.",
       "link": "https://www.therocks.com/whats-on/campaigns/the-rocks-december-markets",
       "source": "The Rocks",
       "age": "Both ages",
       "status": "Confirmed listing",
       "cost": "Free entry",
-      "note": "Friday–Sunday trading; verify individual dates and hours.",
-      "verified": "2026-11-19"
+      "note": "Friday–Sunday trading; verify individual dates and hours. Official updated schedule: Friday/Saturday/Sunday in December 10am–7pm; 21–24 Dec 10am–7pm; closed 25 Dec; 26–27 Dec 10am–5pm. Not a continuous daily market.",
+      "verified": "2026-11-22"
     },
     {
       "id": "wundrful",
@@ -663,8 +663,8 @@
       "age": "Both ages (under 18 accompanied by adult)",
       "status": "Confirmed listing",
       "cost": "A$45 + booking fee advance (check checkout price)",
-      "note": "Saturday doors 7pm; show 8pm. Venue calendar confirms Dec 12. All ages welcome accompanied by adult. Ticketing result has inconsistent cached dates, so verify December 12 selected before paying.",
-      "verified": "2026-11-21"
+      "note": "Saturday doors 7pm; show 8pm. Venue calendar confirms Dec 12. All ages welcome accompanied by adult. Ticketing result has inconsistent cached dates, so verify December 12 selected before paying. Camelot Lounge official calendar reconfirmed Saturday 12 Dec 2026, doors listed 7pm.",
+      "verified": "2026-11-22"
     },
     {
       "id": "jazz-opera-tara-clerkin-20261214",
@@ -682,6 +682,57 @@
       "cost": "A$64.90 unreserved standing; A$8.95 transaction fee",
       "note": "Monday 7pm, doors 6:30pm. Standing-room performance; consider whether a standing late show suits the 9-year-old.",
       "verified": "2026-11-21"
+    },
+    {
+      "id": "greatestchristmasshow-icc-20261213",
+      "title": "The Greatest Christmas Show — ICC Sydney",
+      "category": "Theatre & shows",
+      "region": "Sydney",
+      "place": "ICC Sydney, 14 Darling Drive, Darling Harbour",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "description": "Family Christmas spectacular with singers, aerial acts, illusionists, dancers, festive favourites and Santa; separate Sydney performance from the Wyong show on 14 December.",
+      "link": "https://www.darlingharbour.com/whats-on/events/the-greatest-christmas-show",
+      "source": "Darling Harbour / ICC Sydney official listing",
+      "age": "Both ages (all ages)",
+      "status": "Confirmed listing",
+      "cost": "From A$49.90; seat-specific total to verify",
+      "note": "Sunday 13 December 2026 at 3:30pm and 7:30pm. This is a different date/venue from the 14 Dec Wyong listing. Booking via official event page.",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "twilightfoodfair-northsydney-dec2026",
+      "title": "Twilight Food Fair — North Sydney",
+      "category": "Markets & fairs",
+      "region": "Sydney",
+      "place": "Ted Mack Civic Park, 220 Miller Street, North Sydney",
+      "start": "2026-12-11",
+      "end": "2026-12-18",
+      "description": "Free outdoor Friday food fair with live music, creative activities and community atmosphere; two sessions within the holiday window.",
+      "link": "https://whatson.cityofsydney.nsw.gov.au/events/twilight-food-fair",
+      "source": "North Sydney Council via City of Sydney What's On",
+      "age": "Both ages (all ages)",
+      "status": "Confirmed listing",
+      "cost": "Free entry; food extra",
+      "note": "Friday 11 and Friday 18 December, 4–7pm; no booking required. This listing covers two Fridays, not daily operation between dates.",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "nye-ternary-familybuffet-20261231",
+      "title": "New Year's Eve Family Buffet at The Ternary",
+      "category": "Holiday attractions",
+      "region": "Sydney",
+      "place": "The Ternary, Novotel Sydney Darling Harbour, 100 Murray Street",
+      "start": "2026-12-31",
+      "end": "2026-12-31",
+      "description": "Family-friendly early New Year's Eve international buffet at Novotel Sydney Darling Harbour, with child pricing for both ages.",
+      "link": "https://www.darlingharbour.com/whats-on/events/ring-in-2027-at-the-ternarys-new-years-eve-buffe",
+      "source": "Darling Harbour / The Ternary official listing",
+      "age": "Both ages at 5–7pm family seating; later 8–10pm seating is 16+ and unsuitable",
+      "status": "Confirmed listing",
+      "cost": "Age 9: A$40; age 13: A$68; adult general price A$195 (member discount advertised)",
+      "note": "31 December, 5–7pm family seating only. This is a dining option, not a fireworks-viewing guarantee; booking via event page.",
+      "verified": "2026-11-22"
     }
   ],
   "change_log": [
@@ -719,6 +770,21 @@
       "date": "2026-11-21",
       "type": "Jazz additions",
       "details": "Added 5 dated jazz event listings (Gosford 3 Jan; Sydney 12, 14 and 17 Dec) from official venue and organiser sources. Minor admission unknown for Gosford and Chatswood; verify before booking. Camelot booking page cache shows inconsistent dates so confirm 12 Dec before checkout."
+    },
+    {
+      "date": "2026-11-22",
+      "type": "Added",
+      "details": "3 official listings: ICC Sydney Greatest Christmas Show 13 Dec; North Sydney Twilight Food Fair 11 & 18 Dec; Ternary family-friendly early NYE buffet 31 Dec."
+    },
+    {
+      "date": "2026-11-22",
+      "type": "Updated",
+      "details": "Extended Rocks Markets to 27 Dec and clarified operating days/hours; Confirmed Jolly Christmas Night Markets 4–10:30pm; Confirmed Wyong show ages, child ticket prices and effects warning; Reconfirmed Salsa Meets Jazz on 12 Dec on venue calendar"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "Unresolved",
+      "details": "Central Coast Gosford and The Entrance NYE 2026 remain unconfirmed. Central Coast Jazz League Gosford Jan 3 and Chatswood Concourse under-18 entry rules remain to be confirmed with venues; no evidence of cancellation was found for today's checked official listings. Unchecked listings retain prior verification dates."
     }
   ]
 }
