@@ -1,5 +1,5 @@
 {
-  "last_verified": "2026-11-22",
+  "last_verified": "2026-11-23",
   "holiday_start": "2026-12-11",
   "holiday_end": "2027-01-05",
   "events": [
@@ -459,8 +459,8 @@
       "age": "Both ages",
       "status": "Confirmed listing",
       "cost": "Free",
-      "note": "Official programme lists 4:30pm opening, Santa arrival 8:15pm, fireworks at Cockle Bay at 9pm. Some stage acts target younger children, but crafts, games, choir and fireworks suit a wider family audience.",
-      "verified": "2026-11-21"
+      "note": "Official programme lists 4:30pm opening, Santa arrival 8:15pm, fireworks at Cockle Bay at 9pm. Some stage acts target younger children, but crafts, games, choir and fireworks suit a wider family audience. Official programme includes Diver City (ages 5–10 focus), Whistle & Trick (under-5 focus), Santa at 8:15pm and fireworks at 9pm.",
+      "verified": "2026-11-23"
     },
     {
       "id": "terrigalcarols",
@@ -733,6 +733,57 @@
       "cost": "Age 9: A$40; age 13: A$68; adult general price A$195 (member discount advertised)",
       "note": "31 December, 5–7pm family seating only. This is a dining option, not a fireworks-viewing guarantee; booking via event page.",
       "verified": "2026-11-22"
+    },
+    {
+      "id": "darling-community-christmas-20261213",
+      "title": "Our Community Christmas — Live Music, Choirs & Jazz",
+      "category": "Jazz & live music",
+      "region": "Sydney",
+      "place": "Palm Grove, outside IMAX Sydney, Darling Harbour",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "description": "Free morning community concert featuring choirs, festive brass, young guitarist Guitarhazzy, opera, traditional Chinese music, contemporary jazz and dance.",
+      "link": "https://www.darlingharbour.com/whats-on/events/our-community-christmas",
+      "source": "Darling Harbour official event listing",
+      "age": "Both ages; free outdoor public performance",
+      "status": "Confirmed listing",
+      "cost": "Free",
+      "note": "Sunday 13 December from 10:30am. Includes some contemporary jazz within a mixed-genre community showcase; not a dedicated jazz concert.",
+      "verified": "2026-11-23"
+    },
+    {
+      "id": "movin-bed-cinema-pyrmont-2026",
+      "title": "Mov'in Bed Cinema — Waterfront Outdoor Movies",
+      "category": "Movies & outdoor cinema",
+      "region": "Sydney",
+      "place": "Pyrmont Bay Park, 50 Pirrama Road, Pyrmont",
+      "start": "2026-12-11",
+      "end": "2027-01-05",
+      "description": "Open-air waterfront cinema with beds, headphones and a 15m screen. Holiday-period schedule includes Tad and the Magic Lamp (11 Dec), Elf (15 Dec) and Home Alone (17 Dec); other films vary in age rating.",
+      "link": "https://www.darlingharbour.com/whats-on/events/movin-bed-cinema",
+      "source": "Darling Harbour official event listing; Mov'in Bed event programme",
+      "age": "Both ages only for age-appropriate film sessions; check each film classification",
+      "status": "Confirmed listing",
+      "cost": "From A$13 advertised; bed packages may cost more",
+      "note": "Series generally Wednesday–Sunday, but published film dates may differ; select actual screening and check classification, ticket and bed type before booking. 11 Dec Tad and the Magic Lamp, 15 Dec Elf, 17 Dec Home Alone are listed.",
+      "verified": "2026-11-23"
+    },
+    {
+      "id": "spacey-jane-opera-20261211",
+      "title": "Spacey Jane + Telenova + Armlock — On The Steps",
+      "category": "Live music & concerts",
+      "region": "Sydney",
+      "place": "Sydney Opera House Forecourt, Bennelong Point",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "description": "All-ages outdoor concert with Australian indie-rock band Spacey Jane and support acts Telenova and Armlock.",
+      "link": "https://www.sydneyoperahouse.com/on-the-steps/spacey-jane",
+      "source": "Sydney Opera House official event listing",
+      "age": "Both ages; ages 15 and under must be accompanied by an adult",
+      "status": "Confirmed listing",
+      "cost": "A$109.90 standing + A$8.95 transaction fee",
+      "note": "Friday 11 December, gates 6pm. Standing-only concert, potentially loud and crowded; consider hearing protection and stamina for the 9-year-old. Ticket availability not confirmed.",
+      "verified": "2026-11-23"
     }
   ],
   "change_log": [
@@ -785,6 +836,21 @@
       "date": "2026-11-22",
       "type": "Unresolved",
       "details": "Central Coast Gosford and The Entrance NYE 2026 remain unconfirmed. Central Coast Jazz League Gosford Jan 3 and Chatswood Concourse under-18 entry rules remain to be confirmed with venues; no evidence of cancellation was found for today's checked official listings. Unchecked listings retain prior verification dates."
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Added",
+      "details": "Added 3 officially dated listings: Our Community Christmas (13 Dec, free music and some jazz), Mov'in Bed Cinema at Pyrmont Bay Park (holiday season), and all-ages Spacey Jane concert at Opera House (11 Dec)."
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Updated",
+      "details": "Confirmed Darling Harbour NYE 9pm/midnight fireworks and 19 Dec Christmas Festival family programme/age guidance. No cancellations found in sampled official checks; unreviewed records retain prior verification dates."
+    },
+    {
+      "date": "2026-11-23",
+      "type": "Unresolved",
+      "details": "Central Coast Gosford and The Entrance NYE still unconfirmed; jazz licensed-club under-18 policies at Gosford and Concourse remain unverified; Mov'in Bed film ratings and individual tickets must be checked before booking."
     }
   ]
 }
