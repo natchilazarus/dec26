@@ -1,5 +1,5 @@
 {
-  "last_verified": "2026-11-23",
+  "last_verified": "2026-11-24",
   "holiday_start": "2026-12-11",
   "holiday_end": "2027-01-05",
   "events": [
@@ -100,10 +100,10 @@
       "link": "https://icentralcoast.com/events/new-years-eve-at-gosford-2026/",
       "source": "iCentralCoast",
       "age": "Both ages",
-      "status": "Check official 2026 programme",
+      "status": "Unconfirmed for 2026",
       "cost": "Expected free",
-      "note": "Central Coast Council official page still displayed 2025 when checked.",
-      "verified": "2026-11-19"
+      "note": "Official tourism page still describes Wednesday 31 December welcoming 2026, i.e. 2025 event. Do not assume 2026 programme.",
+      "verified": "2026-11-24"
     },
     {
       "id": "entrancenye",
@@ -117,10 +117,10 @@
       "link": "https://icentralcoast.com/events/new-years-eve-the-entrance/",
       "source": "iCentralCoast",
       "age": "Both ages",
-      "status": "Check official 2026 programme",
+      "status": "Unconfirmed for 2026",
       "cost": "Expected free",
-      "note": "Central Coast Council official page still displayed 2025 when checked.",
-      "verified": "2026-11-19"
+      "note": "Official tourism page still describes Wednesday 31 December welcoming 2026, i.e. 2025 event. Do not assume 2026 programme.",
+      "verified": "2026-11-24"
     },
     {
       "id": "avoca",
@@ -320,11 +320,11 @@
       "description": "A narrated, interactive ballet experience for children.",
       "link": "https://www.sydneyoperahouse.com/the-australian-ballet/2026-season/storytime-ballet-cinderella",
       "source": "Sydney Opera House",
-      "age": "Younger-leaning",
+      "age": "All ages; designed for ages 3+ (younger audience emphasis)",
       "status": "Confirmed listing",
-      "cost": "A$59–98 depending on section/session; A$8.95 booking fee per transaction",
+      "cost": "A$59–98 plus A$8.95 transaction fee",
       "note": "55 minutes, suitable for all ages; aimed primarily at younger children.",
-      "verified": "2026-11-20"
+      "verified": "2026-11-24"
     },
     {
       "id": "goeswrong",
@@ -609,11 +609,11 @@
       "description": "Traditional New Orleans jazz, boogie-woogie, swing, blues and soul with Carolyn Packer's band, afternoon performance.",
       "link": "https://www.jazzleague.net/events/carolyn-packers-stompin-rhythm-aces-1",
       "source": "Central Coast Jazz League (organiser)",
-      "age": "Check venue under-18 entry policy",
+      "age": "Minors permitted in designated club areas with parent/guardian; confirm Parkview Room admission",
       "status": "Confirmed listing",
       "cost": "A$10 at door (club's event-series price)",
-      "note": "Sunday 2–5pm. A daytime jazz performance likely to appeal to both ages; call Central Coast Leagues Club to confirm minors allowed in Parkview Room and whether entry fee applies to children.",
-      "verified": "2026-11-21"
+      "note": "Sunday 2–5pm, A$10 at door. Club policy requires continuous parental supervision, excludes level two, gaming and bar areas. Function rooms may require special arrangements for minors; confirm this concert directly on 02 4325 9888. Policy: https://cclc.com.au/about/minors-on-premises/",
+      "verified": "2026-11-24"
     },
     {
       "id": "jazz-orpheum-pocket-trio-20261217",
@@ -784,6 +784,40 @@
       "cost": "A$109.90 standing + A$8.95 transaction fee",
       "note": "Friday 11 December, gates 6pm. Standing-only concert, potentially loud and crowded; consider hearing protection and stamina for the 9-year-old. Ticket availability not confirmed.",
       "verified": "2026-11-23"
+    },
+    {
+      "id": "entrance-market-20261219",
+      "title": "The Entrance Markets",
+      "category": "Markets & fairs",
+      "region": "Central Coast",
+      "place": "Memorial Park, Marine Parade, The Entrance",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "description": "Local outdoor market; potential family outing.",
+      "link": "https://www.lovecentralcoast.com/events-listing/markets",
+      "source": "Love Central Coast official market directory",
+      "age": "Both ages",
+      "status": "Check specific session",
+      "cost": "Not verified",
+      "note": "Official directory lists series ending 19 December 2026; confirm final session, hours and weather cancellation with organiser.",
+      "verified": "2026-11-24"
+    },
+    {
+      "id": "norah-head-market-20261219",
+      "title": "Norah Head Ocean View Markets",
+      "category": "Markets & fairs",
+      "region": "Central Coast",
+      "place": "Mazlin Reserve, Bungary Road, Norah Head",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "description": "Local outdoor market; potential family outing.",
+      "link": "https://www.lovecentralcoast.com/events-listing/markets",
+      "source": "Love Central Coast official market directory",
+      "age": "Both ages",
+      "status": "Check specific session",
+      "cost": "Not verified",
+      "note": "Official directory lists series ending 19 December 2026; confirm final session, hours and weather cancellation with organiser.",
+      "verified": "2026-11-24"
     }
   ],
   "change_log": [
@@ -851,6 +885,11 @@
       "date": "2026-11-23",
       "type": "Unresolved",
       "details": "Central Coast Gosford and The Entrance NYE still unconfirmed; jazz licensed-club under-18 policies at Gosford and Concourse remain unverified; Mov'in Bed film ratings and individual tickets must be checked before booking."
+    },
+    {
+      "date": "2026-11-24",
+      "type": "Research update",
+      "details": "Added two provisional Central Coast market sessions for 19 December. Verified Gosford jazz club minors policy, Cinderella prices and age guidance; NYE Gosford/The Entrance still unconfirmed. Excluded Christmas Actually (15+ recommended) and Choir of Man (12+ recommended) for joint outing."
     }
   ]
 }
