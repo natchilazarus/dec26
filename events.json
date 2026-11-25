@@ -1,5 +1,5 @@
 {
-  "last_verified": "2026-11-24",
+  "last_verified": "2026-11-25",
   "holiday_start": "2026-12-11",
   "holiday_end": "2027-01-05",
   "events": [
@@ -613,7 +613,7 @@
       "status": "Confirmed listing",
       "cost": "A$10 at door (club's event-series price)",
       "note": "Sunday 2–5pm, A$10 at door. Club policy requires continuous parental supervision, excludes level two, gaming and bar areas. Function rooms may require special arrangements for minors; confirm this concert directly on 02 4325 9888. Policy: https://cclc.com.au/about/minors-on-premises/",
-      "verified": "2026-11-24"
+      "verified": "2026-11-25"
     },
     {
       "id": "jazz-orpheum-pocket-trio-20261217",
@@ -647,7 +647,7 @@
       "status": "Confirmed listing",
       "cost": "Ticketed; current price not verified",
       "note": "Thursday 7:30pm. Public ticket link on official event page; confirm if 9- and 13-year-olds can attend before booking.",
-      "verified": "2026-11-21"
+      "verified": "2026-11-25"
     },
     {
       "id": "jazz-marrickville-salsa-meets-jazz-20261212",
@@ -818,6 +818,57 @@
       "cost": "Not verified",
       "note": "Official directory lists series ending 19 December 2026; confirm final session, hours and weather cancellation with organiser.",
       "verified": "2026-11-24"
+    },
+    {
+      "id": "maritime-underwater-drones-20270105",
+      "title": "Underwater Drones — Maritime Museum",
+      "category": "Family activities",
+      "region": "Sydney",
+      "place": "Australian National Maritime Museum, 2 Murray Street, Darling Harbour",
+      "start": "2027-01-05",
+      "end": "2027-01-05",
+      "description": "Pilot a remotely operated underwater vehicle, explore harbour habitats and complete challenges with museum educators.",
+      "link": "https://www.sea.museum/en/whats-on/events/underwater-drones",
+      "source": "Australian National Maritime Museum",
+      "age": "Both ages (8+)",
+      "status": "Confirmed listing",
+      "cost": "A$35 general; A$25 members",
+      "note": "Sessions noon, 12:45, 1:30, 2:15 and 3pm. Booking essential; up to four players may share a session; admission included for one player. Weather dependent; availability not checked.",
+      "verified": "2026-11-25"
+    },
+    {
+      "id": "maritime-summer-2026",
+      "title": "Summer at the Sea Museum",
+      "category": "Family activities",
+      "region": "Sydney",
+      "place": "Australian National Maritime Museum, Darling Harbour",
+      "start": "2026-12-18",
+      "end": "2027-01-05",
+      "description": "Ocean rainforest themed exhibitions, creative spaces, maker activities and family discovery trails.",
+      "link": "https://www.sea.museum/en/home",
+      "source": "Australian National Maritime Museum",
+      "age": "Both ages; individual activities vary",
+      "status": "Confirmed listing",
+      "cost": "Admission and activity prices vary; check museum",
+      "note": "Official programme runs 18 Dec–31 Jan; this record is clipped to holiday dates. Check individual activity schedules and Christmas opening hours; some activities begin after 5 Jan.",
+      "verified": "2026-11-25"
+    },
+    {
+      "id": "seymour-sounds-jerome-20261212",
+      "title": "Seymour Sounds — Jerome Blazé + DAN+EE",
+      "category": "Jazz & live music",
+      "region": "Sydney",
+      "place": "Seymour Centre courtyard, Chippendale",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "description": "Live genre-blending soul, electronic and instrumental music with DJ sets, part of a jazz and neo-soul festival.",
+      "link": "https://www.seymourcentre.com/event/seymour-sounds/",
+      "source": "Seymour Centre",
+      "age": "Under-18 admission not confirmed",
+      "status": "Check age policy",
+      "cost": "Free; registration required",
+      "note": "6–9pm; live sets 6:30 and 7:45pm. Licensed drinks served; confirm both children's admission with box office 02 7255 1561, including wet-weather indoor venue.",
+      "verified": "2026-11-25"
     }
   ],
   "change_log": [
@@ -890,6 +941,11 @@
       "date": "2026-11-24",
       "type": "Research update",
       "details": "Added two provisional Central Coast market sessions for 19 December. Verified Gosford jazz club minors policy, Cinderella prices and age guidance; NYE Gosford/The Entrance still unconfirmed. Excluded Christmas Actually (15+ recommended) and Choir of Man (12+ recommended) for joint outing."
+    },
+    {
+      "date": "2026-11-25",
+      "type": "New listings and rechecks",
+      "details": "Added Maritime Museum summer programme, 5 January underwater drones and provisional age-policy Seymour Sounds concert. Rechecked official Gosford and Chatswood jazz dates; event-specific minor admission remains unresolved. Central Coast NYE official page still refers to welcoming 2026. No cancellations identified in sampled sources."
     }
   ]
 }
