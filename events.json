@@ -1,5 +1,5 @@
 {
-  "last_verified": "2026-11-25",
+  "last_verified": "2026-11-26",
   "holiday_start": "2026-12-11",
   "holiday_end": "2027-01-05",
   "events": [
@@ -102,8 +102,8 @@
       "age": "Both ages",
       "status": "Unconfirmed for 2026",
       "cost": "Expected free",
-      "note": "Official tourism page still describes Wednesday 31 December welcoming 2026, i.e. 2025 event. Do not assume 2026 programme.",
-      "verified": "2026-11-24"
+      "note": "2026 local reporting (Coasties Magazine, 25 November: https://coastiesmag.com.au/whats-on-central-coast-nsw/) advertises free family celebrations 6–9pm with 9pm fireworks on Thursday 31 December 2026. Official general NYE page still shows 2025; current-year official confirmation remains pending. Weather/fire restrictions may affect fireworks.",
+      "verified": "2026-11-26"
     },
     {
       "id": "entrancenye",
@@ -119,8 +119,8 @@
       "age": "Both ages",
       "status": "Unconfirmed for 2026",
       "cost": "Expected free",
-      "note": "Official tourism page still describes Wednesday 31 December welcoming 2026, i.e. 2025 event. Do not assume 2026 programme.",
-      "verified": "2026-11-24"
+      "note": "2026 local reporting (Coasties Magazine, 25 November: https://coastiesmag.com.au/whats-on-central-coast-nsw/) advertises free family celebrations 6–9pm with 9pm fireworks on Thursday 31 December 2026. Official general NYE page still shows 2025; current-year official confirmation remains pending. Weather/fire restrictions may affect fireworks.",
+      "verified": "2026-11-26"
     },
     {
       "id": "avoca",
@@ -629,8 +629,8 @@
       "age": "Both ages (confirmed all-ages event)",
       "status": "Confirmed listing",
       "cost": "A$35 per person",
-      "note": "Thursday 8–10pm; doors 7:30pm. Official listing says all ages; lounge cinema is stairs-only. Event page includes ticket booking.",
-      "verified": "2026-11-21"
+      "note": "Doors 7:30pm; sets 8pm and 9:10pm, finish 10pm. All ages per event listing; stairs-only access. A$35; inventory not checked.",
+      "verified": "2026-11-26"
     },
     {
       "id": "jazz-chatswood-dan-barnett-20261217",
@@ -869,6 +869,23 @@
       "cost": "Free; registration required",
       "note": "6–9pm; live sets 6:30 and 7:45pm. Licensed drinks served; confirm both children's admission with box office 02 7255 1561, including wet-weather indoor venue.",
       "verified": "2026-11-25"
+    },
+    {
+      "id": "balmoral-carols-20261212",
+      "title": "Balmoral Carols 2026",
+      "category": "Christmas & carols",
+      "region": "Sydney",
+      "place": "Balmoral Rotunda, The Esplanade, Mosman",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "description": "Waterfront community Christmas carols, children's crafts and Christmas story.",
+      "link": "https://events.mosman.nsw.gov.au/events/balmoral-carols-2026",
+      "source": "Mosman Council official events calendar",
+      "age": "Both ages; open to everyone",
+      "status": "Confirmed listing",
+      "cost": "Free",
+      "note": "5–9pm; children's activities from 5pm, carols from 7pm. Bring a picnic blanket.",
+      "verified": "2026-11-26"
     }
   ],
   "change_log": [
@@ -946,6 +963,11 @@
       "date": "2026-11-25",
       "type": "New listings and rechecks",
       "details": "Added Maritime Museum summer programme, 5 January underwater drones and provisional age-policy Seymour Sounds concert. Rechecked official Gosford and Chatswood jazz dates; event-specific minor admission remains unresolved. Central Coast NYE official page still refers to welcoming 2026. No cancellations identified in sampled sources."
+    },
+    {
+      "date": "2026-11-26",
+      "type": "Research update",
+      "details": "Added official Mosman Council Balmoral Carols listing; rechecked Pocket Trio all-ages details; updated Gosford and The Entrance NYE notes with current local reporting while retaining official confirmation caveat."
     }
   ]
 }
