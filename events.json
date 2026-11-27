@@ -1,5 +1,5 @@
 {
-  "last_verified": "2026-11-26",
+  "last_verified": "2026-11-27",
   "holiday_start": "2026-12-11",
   "holiday_end": "2027-01-05",
   "events": [
@@ -646,8 +646,8 @@
       "age": "Check under-18 entry policy",
       "status": "Confirmed listing",
       "cost": "Ticketed; current price not verified",
-      "note": "Thursday 7:30pm. Public ticket link on official event page; confirm if 9- and 13-year-olds can attend before booking.",
-      "verified": "2026-11-25"
+      "note": "Thursday 7:30pm. Public ticket link on official event page; confirm if 9- and 13-year-olds can attend before booking. 27 Nov: official venue event index displays Join wait list; series page still says on sale. Check direct booking for current availability.",
+      "verified": "2026-11-27"
     },
     {
       "id": "jazz-marrickville-salsa-meets-jazz-20261212",
@@ -663,8 +663,8 @@
       "age": "Both ages (under 18 accompanied by adult)",
       "status": "Confirmed listing",
       "cost": "A$45 + booking fee advance (check checkout price)",
-      "note": "Saturday doors 7pm; show 8pm. Venue calendar confirms Dec 12. All ages welcome accompanied by adult. Ticketing result has inconsistent cached dates, so verify December 12 selected before paying. Camelot Lounge official calendar reconfirmed Saturday 12 Dec 2026, doors listed 7pm.",
-      "verified": "2026-11-22"
+      "note": "Saturday doors 7pm; show 8pm. Venue calendar confirms Dec 12. All ages welcome accompanied by adult. Ticketing result has inconsistent cached dates, so verify December 12 selected before paying. Camelot Lounge official calendar reconfirmed Saturday 12 Dec 2026, doors listed 7pm. Official venue calendar reconfirmed 12 Dec, 7pm listing; ticket inventory not verified.",
+      "verified": "2026-11-27"
     },
     {
       "id": "jazz-opera-tara-clerkin-20261214",
@@ -886,6 +886,57 @@
       "cost": "Free",
       "note": "5–9pm; children's activities from 5pm, carols from 7pm. Bring a picnic blanket.",
       "verified": "2026-11-26"
+    },
+    {
+      "id": "kefi-kids-market-20261213",
+      "title": "Kefi Kids Christmas Market",
+      "category": "Markets & fairs",
+      "region": "Central Coast",
+      "place": "Kefi Koolewong Marina, 19 Brisbane Water Drive, Koolewong",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "description": "Christmas market featuring young stallholders aged 8–13 selling crafts, gifts and pre-loved items.",
+      "link": "https://www.kefikoolewong.com.au/santa-photos",
+      "source": "Kefi official event page; Best on the Central Coast",
+      "age": "Both ages",
+      "status": "Confirmed listing",
+      "cost": "Free market entry reported; optional Santa photos from A$99",
+      "note": "Official organiser confirms market starts 10:30am; local directory reports finish 1pm. Santa photo bookings separate.",
+      "verified": "2026-11-27"
+    },
+    {
+      "id": "camelot-beliza-20261228",
+      "title": "Beliza — Brazilian Samba/Funk/Rock/MPB",
+      "category": "Jazz & live music",
+      "region": "Sydney",
+      "place": "Camelot Lounge, Marrickville",
+      "start": "2026-12-28",
+      "end": "2026-12-28",
+      "description": "Brazilian live music including samba and funk.",
+      "link": "https://www.camelotlounge.com/whats-on",
+      "source": "Camelot Lounge official calendar",
+      "age": "Check event-specific under-18 admission",
+      "status": "Confirmed listing",
+      "cost": "Ticket price not verified",
+      "note": "Calendar lists 7pm; confirm show time, ticket availability and accompanied minor admission before booking.",
+      "verified": "2026-11-27"
+    },
+    {
+      "id": "camelot-bump-city-20261230",
+      "title": "Soul/Funk Party With Bump City",
+      "category": "Jazz & live music",
+      "region": "Sydney",
+      "place": "Camelot Lounge, Marrickville",
+      "start": "2026-12-30",
+      "end": "2026-12-30",
+      "description": "Live soul and funk performance.",
+      "link": "https://www.camelotlounge.com/whats-on",
+      "source": "Camelot Lounge official calendar",
+      "age": "Check event-specific under-18 admission",
+      "status": "Confirmed listing",
+      "cost": "Ticket price not verified",
+      "note": "Calendar lists 7pm; confirm show time, ticket availability and accompanied minor admission before booking.",
+      "verified": "2026-11-27"
     }
   ],
   "change_log": [
@@ -968,6 +1019,11 @@
       "date": "2026-11-26",
       "type": "Research update",
       "details": "Added official Mosman Council Balmoral Carols listing; rechecked Pocket Trio all-ages details; updated Gosford and The Entrance NYE notes with current local reporting while retaining official confirmation caveat."
+    },
+    {
+      "date": "2026-11-27",
+      "type": "Added and rechecked",
+      "details": "Added Kefi Kids Christmas Market and two Camelot Brazilian/soul/funk concerts with minor admission and pricing unresolved. Chatswood Latin Fiesta official index displays waitlist; series page differs. Salsa date reconfirmed. No removals."
     }
   ]
 }
