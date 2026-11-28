@@ -1,5 +1,5 @@
 {
-  "last_verified": "2026-11-27",
+  "last_verified": "2026-11-28",
   "holiday_start": "2026-12-11",
   "holiday_end": "2027-01-05",
   "events": [
@@ -611,9 +611,9 @@
       "source": "Central Coast Jazz League (organiser)",
       "age": "Minors permitted in designated club areas with parent/guardian; confirm Parkview Room admission",
       "status": "Confirmed listing",
-      "cost": "A$10 at door (club's event-series price)",
+      "cost": "A$10 at door, including raffle tickets",
       "note": "Sunday 2–5pm, A$10 at door. Club policy requires continuous parental supervision, excludes level two, gaming and bar areas. Function rooms may require special arrangements for minors; confirm this concert directly on 02 4325 9888. Policy: https://cclc.com.au/about/minors-on-premises/",
-      "verified": "2026-11-25"
+      "verified": "2026-11-28"
     },
     {
       "id": "jazz-orpheum-pocket-trio-20261217",
@@ -630,7 +630,7 @@
       "status": "Confirmed listing",
       "cost": "A$35 per person",
       "note": "Doors 7:30pm; sets 8pm and 9:10pm, finish 10pm. All ages per event listing; stairs-only access. A$35; inventory not checked.",
-      "verified": "2026-11-26"
+      "verified": "2026-11-28"
     },
     {
       "id": "jazz-chatswood-dan-barnett-20261217",
@@ -645,9 +645,9 @@
       "source": "The Concourse (official event page)",
       "age": "Check under-18 entry policy",
       "status": "Confirmed listing",
-      "cost": "Ticketed; current price not verified",
-      "note": "Thursday 7:30pm. Public ticket link on official event page; confirm if 9- and 13-year-olds can attend before booking. 27 Nov: official venue event index displays Join wait list; series page still says on sale. Check direct booking for current availability.",
-      "verified": "2026-11-27"
+      "cost": "Published series prices: adult A$52, concession A$47, under 35 A$42",
+      "note": "17 Dec 7:30pm. Venue index still shows Join wait list; series page says on sale. Under-18 admission and actual inventory unconfirmed. Prices: https://whatson.cityofsydney.nsw.gov.au/events/jazz-at-the-lounge-2026-season",
+      "verified": "2026-11-28"
     },
     {
       "id": "jazz-marrickville-salsa-meets-jazz-20261212",
@@ -681,7 +681,7 @@
       "status": "Confirmed listing",
       "cost": "A$64.90 unreserved standing; A$8.95 transaction fee",
       "note": "Monday 7pm, doors 6:30pm. Standing-room performance; consider whether a standing late show suits the 9-year-old.",
-      "verified": "2026-11-21"
+      "verified": "2026-11-28"
     },
     {
       "id": "greatestchristmasshow-icc-20261213",
@@ -913,13 +913,13 @@
       "start": "2026-12-28",
       "end": "2026-12-28",
       "description": "Brazilian live music including samba and funk.",
-      "link": "https://www.camelotlounge.com/whats-on",
-      "source": "Camelot Lounge official calendar",
-      "age": "Check event-specific under-18 admission",
+      "link": "https://www.stickytickets.com.au/xut0k/beliza__brazilian_sambafunkrockmpb.aspx",
+      "source": "Camelot Lounge organiser via Sticky Tickets",
+      "age": "Both ages; under 18 accompanied by adult",
       "status": "Confirmed listing",
-      "cost": "Ticket price not verified",
-      "note": "Calendar lists 7pm; confirm show time, ticket availability and accompanied minor admission before booking.",
-      "verified": "2026-11-27"
+      "cost": "A$34 including booking fee",
+      "note": "Django @ Camelot; doors 7pm, show 8pm. Licensed venue; general admission seating not guaranteed. Buy Tickets displayed; inventory not tested.",
+      "verified": "2026-11-28"
     },
     {
       "id": "camelot-bump-city-20261230",
@@ -930,13 +930,64 @@
       "start": "2026-12-30",
       "end": "2026-12-30",
       "description": "Live soul and funk performance.",
-      "link": "https://www.camelotlounge.com/whats-on",
-      "source": "Camelot Lounge official calendar",
-      "age": "Check event-specific under-18 admission",
+      "link": "https://www.stickytickets.com.au/15894/soulfunk_party_with_bump_city.aspx",
+      "source": "Camelot Lounge organiser via Sticky Tickets",
+      "age": "Both ages; under 18 accompanied by adult",
       "status": "Confirmed listing",
-      "cost": "Ticket price not verified",
-      "note": "Calendar lists 7pm; confirm show time, ticket availability and accompanied minor admission before booking.",
-      "verified": "2026-11-27"
+      "cost": "A$37 including booking fee",
+      "note": "Doors 7pm, show 8pm. Licensed venue; seating not guaranteed. Buy Tickets displayed; inventory not tested.",
+      "verified": "2026-11-28"
+    },
+    {
+      "id": "camelot-marsala-20261229",
+      "title": "Marsala — World Music & Jazz",
+      "category": "Jazz & live music",
+      "region": "Sydney",
+      "place": "Django @ Camelot Lounge, Marrickville",
+      "start": "2026-12-29",
+      "end": "2026-12-29",
+      "description": "World music including Italian jazz, tango, salsa and samba.",
+      "link": "https://www.stickytickets.com.au/10607/marsala.aspx",
+      "source": "Camelot Lounge organiser via Sticky Tickets",
+      "age": "Both ages; under 18 accompanied by adult",
+      "status": "Confirmed listing",
+      "cost": "A$41.50 including booking fee",
+      "note": "Doors 7pm, show 8pm. Licensed venue, general admission seating not guaranteed; Buy Tickets displayed, inventory not tested.",
+      "verified": "2026-11-28"
+    },
+    {
+      "id": "atomic-spectacular-20261219",
+      "title": "Atomic Spectacular Show",
+      "category": "Shows & theatre",
+      "region": "Sydney",
+      "place": "Zenith Theatre, Railway Street, Chatswood",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "description": "Interactive family science performance exploring atoms and the periodic table through demonstrations.",
+      "link": "https://whatson.cityofsydney.nsw.gov.au/events/atomic-spectacular-show",
+      "source": "Atomic School organiser listing on City of Sydney What's On",
+      "age": "Ages 4+; both ages",
+      "status": "Confirmed listing",
+      "cost": "Free",
+      "note": "3–4:10pm. Organiser says almost sold out; check registration availability. Includes fireballs and fog effects.",
+      "verified": "2026-11-28"
+    },
+    {
+      "id": "mary-mackillop-family-night-20261220",
+      "title": "Christmas Family Night of Wonder",
+      "category": "Lights & rides",
+      "region": "Sydney",
+      "place": "Mary MacKillop Place, 9 Mount Street, North Sydney",
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "description": "Christmas lights, live carols, festive displays and children's activities.",
+      "link": "https://whatson.cityofsydney.nsw.gov.au/events/a-family-night-of-wonder-christmas-at-mary-mackillop-place",
+      "source": "Mary MacKillop Place organiser listing on City of Sydney What's On",
+      "age": "Both ages",
+      "status": "Confirmed listing",
+      "cost": "Free entry",
+      "note": "5:30–9:30pm (last entry). Enter via memorial chapel; food available or bring picnic.",
+      "verified": "2026-11-28"
     }
   ],
   "change_log": [
@@ -1024,6 +1075,11 @@
       "date": "2026-11-27",
       "type": "Added and rechecked",
       "details": "Added Kefi Kids Christmas Market and two Camelot Brazilian/soul/funk concerts with minor admission and pricing unresolved. Chatswood Latin Fiesta official index displays waitlist; series page differs. Salsa date reconfirmed. No removals."
+    },
+    {
+      "date": "2026-11-28",
+      "type": "Verified and added",
+      "details": "Added Marsala, Atomic Spectacular and Mary MacKillop family night. Confirmed accompanied minors and ticket prices for Beliza and Bump City; rechecked Gosford, Chatswood, Orpheum and Opera House jazz listings. Chatswood waitlist and Gosford function-room age policy remain unresolved. No removals."
     }
   ]
 }
